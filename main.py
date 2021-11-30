@@ -19,4 +19,3 @@ if __name__ == '__main__':
     response3 = requests.get(url3)
     response3.raise_for_status()
     print(response3.text)
-    
