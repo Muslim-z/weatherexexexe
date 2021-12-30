@@ -4,6 +4,8 @@ if __name__ == '__main__':
     payload = {
         "m": "",
         "M": "",
+        "T": "",
+        "n": "",
         "lang": "ru"
     }
     cities = [
